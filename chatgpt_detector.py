@@ -1,4 +1,4 @@
-!pip install gradio transformers
+pip install gradio transformers
 
 import os
 import gradio as gr
